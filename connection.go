@@ -16,6 +16,8 @@ limitations under the License.
 
 package ipmi
 
+fn()----------------------------
+
 import (
 	"fmt"
 	"net"
